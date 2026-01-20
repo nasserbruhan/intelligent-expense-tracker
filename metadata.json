@@ -1,0 +1,5 @@
+{
+  "name": "FinSight AI - Intelligent Expense Tracker",
+  "description": "An AI-powered expense intelligence engine that automatically categorizes spending, analyzes historical patterns, and predicts future financial trends using the Gemini API.",
+  "requestFramePermissions": []
+}
